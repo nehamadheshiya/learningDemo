@@ -1,2 +1,2 @@
 # learningDemo
-This is a Demo for Git &amp; GitHub
+This is a Demo for Git &amp; GitHub class.
